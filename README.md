@@ -7,7 +7,7 @@ La pagina fue generada usando Claude. Para mantenerlo lo mas simple posible es s
 Pasos para desplegar
 
 1. `index.html` en la raíz del repositorio.
-2. **Settings → Pages → Source:** *Deploy from a branch* → `main` / `root`.
+2. **Settings → Pages → Source:** *Deploy from a branch* → `pages` / `root`.
 3. Queda disponible en `https://TU-USUARIO.github.io/ceia_prob_estadistica/`.
 
 
