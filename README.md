@@ -7,7 +7,7 @@ Codigo para la materia de Probabilidad y Estadistica de CEIA
 - [Clase 5 - Teorema Central del limite](./clase5_teorema_central_limite/)
 - [Clase 6 - Intervalos de confianza](./clase6_intervalos%20de%20confianza/)
 - [Clase 7 - Test de Hipotesis y ANOVA](./clase7_test_hipotesis_ANOVA/)
-- [TP](./TPs/)
+- [TPs](./TPs/)
 
 # Teoria
 
