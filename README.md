@@ -8,3 +8,7 @@ Codigo para la materia de Probabilidad y Estadistica de CEIA
 - [Clase 6 - Intervalos de confianza](./clase6_intervalos%20de%20confianza/)
 - [Clase 7 - Test de Hipotesis y ANOVA](./clase7_test_hipotesis_ANOVA/)
 - [TP1](./TPs/)
+
+# Teoria
+
+Notas tomadas durante la cursada se encuentran disponibles en https://luisparedes1.github.io/ceia_prob_estadistica/
