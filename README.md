@@ -2,7 +2,9 @@
 
 Esta es mi pagina personal para los apuntes tomados durante la cursada de Probabilidad y Estadistica CEIA.
 
-La pagina fue generada usando Claude y para mantenerlo lo mas simple posible, es una unicamente página estática desarrollada en HTML sin dependencias ni build
+La pagina fue generada usando Claude. Para mantenerlo lo mas simple posible es solo una página estática desarrollada en HTML sin dependencias ni build
+
+Pasos para desplegar
 
 1. `index.html` en la raíz del repositorio.
 2. **Settings → Pages → Source:** *Deploy from a branch* → `main` / `root`.
